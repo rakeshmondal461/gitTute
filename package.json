@@ -1,0 +1,18 @@
+{
+  "name": "gittute",
+  "version": "1.0.0",
+  "description": "This is for Git tutorial",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start":"nodemon app.js"
+  },
+  "author": "Rakesh Mondal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "dotenv-cli": "^7.3.0",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
